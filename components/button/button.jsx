@@ -1,6 +1,15 @@
-import styles from './Button.module.css'
+
 export default function Btn() {
     return(
-        <button className={styles.button} type="button">Botão</button>
+        <>
+        <button  type="button">Botão</button>
+        <style jsx>{`
+        button {
+          margin: 500px;
+          color:red;
+        }
+        
+      `}</style>
+        </>
     )
 }

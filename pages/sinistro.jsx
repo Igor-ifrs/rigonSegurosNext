@@ -1,7 +1,7 @@
 export default function Sinistro() {
-    return(
+    return (
         <>
-        <h1>Sinistro</h1>        
+            <h1>Sinistro</h1>
         </>
-    )
+    );
 }

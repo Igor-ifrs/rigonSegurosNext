@@ -1,8 +1,7 @@
 export default function ParaVc() {
-    return(
+    return (
         <>
-        <h1>para sua você</h1>
-        
+            <h1>para sua você</h1>
         </>
-    )
+    );
 }

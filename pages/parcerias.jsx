@@ -1,7 +1,7 @@
 export default function Parcerias() {
-    return(
+    return (
         <>
-        <h1>Parceiros</h1>        
+            <h1>Parceiros</h1>
         </>
-    )
+    );
 }
